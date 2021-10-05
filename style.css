@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    width: 100;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+}
+
+p {
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+input {
+    padding: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+    width: 250px;
+    height: 30px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1.4em;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+}
+
+button:hover {
+    color: white;
+    background-color: teal;
+}
+
+li {
+    font-size: 2em;
+}
